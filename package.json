@@ -1,7 +1,7 @@
 {
   "name": "noml-js",
   "version": "0.0.0",
-  "description": "",
+  "description": "NOML parser for JavaScript",
   "author": "phaux <phaux4@gmail.com>",
   "license": "ISC",
   "keywords": [
