@@ -9,7 +9,7 @@
     "parser",
     "json"
   ],
-  "repository": "phaux/noml",
+  "repository": "phaux/noml-js",
   "main": "index.js",
   "scripts": {
     "test": "eslint index.js test.js && npm run build && node test.js",
